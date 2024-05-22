@@ -1,0 +1,640 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.22621}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\b\f0\fs22\lang9 AWS Q:\b0\par
+\par
+Different between public and private subnet/network in AWS\par
+what is security group in AWS?\par
+\par
+How you will connect your cloud center with you on premises server.?\par
+\par
+How you will troubleshoot if server is not working?\par
+\par
+what is VPC peering\par
+\par
+Autoscaling in AWS.\par
+\par
+what are aws resources you are currently using\par
+\par
+which aws resources do you have experience with\par
+\par
+how we can host static application on s3 with cloud front\par
+\par
+what is VPC and nat gateway\par
+\par
+Suppose an Elastic IP is associated with EC2 instance .What would happen if we stop the EC2 instance and terminate the EC2 instance??\par
+\par
+Suppose an Elastic IP is associated with EC2 instance .What would happen if we stop the EC2 instance and terminate the EC2 instance??\par
+\par
+Explain Route 53 for DNS\par
+\par
+What is the difference between stopping and terminating an EC2 instance?\par
+\par
+What are some critical differences between AWS S3 and EBS?\par
+\par
+AWS services that are not region-specific?\par
+\par
+Difference between Security group and NACL?\par
+\par
+What is CloudFront?\par
+\par
+How can we access Ec2 running inside the private instances from outside VPC?\par
+\par
+If there is a Java web application running on one of the Ec2 Instance servers, and it was reported to you that there instance is not reachable by the end users, what approach will you follow to resolve the issue?\par
+\par
+What is application and network load balancer?\par
+\par
+What are the category/Types of EC2 instances\par
+\par
+how we can host any sample application in ec2 instance and how we can access that application through browser\par
+\par
+what is project architecture\par
+\par
+what is vpc\par
+\par
+What is IAM ?\par
+\par
+What is social Engineering and phissing attack ?\par
+\par
+What is NMAP?\par
+\par
+What is symeteric and asymeteric encryption ?\par
+\par
+A company is planning to migrate their on-premises infrastructure to AWS. As a Cloud Security Architect, what steps would you take to ensure the security of this migration?\par
+\par
+A developer in your team has accidentally exposed an S3 bucket containing sensitive customer data to the public. What steps would you take to mitigate this security incident?\par
+\par
+Your organization has decided to implement multi-factor authentication (MFA) for AWS IAM users. How would you go about implementing and managing MFA effectively?\par
+\par
+You need to secure an Amazon RDS database that contains sensitive customer information. What security measures would you implement to protect this data?\par
+\par
+Your organization is considering implementing AWS Secrets Manager to manage sensitive application secrets and credentials. How would you design a secure solution using AWS Secrets Manager?\par
+\par
+What is a security Hub?\par
+\par
+Write terraform script to provision 3 VMs on Azure\par
+\par
+Write ansible playbook to deploy apache webserver on target host\par
+\par
+Write kubernetes manifest for deployment of nginx\par
+\par
+AWS Route 53 and Routing Policies ?\par
+\par
+When to use Object, Block and Network File storage [EFS & FSX] ?\par
+\par
+Scenario: A company is looking to migrate its on-premises data center to AWS. What factors would you consider when designing the architecture for this migration?\par
+\par
+Scenario: A web application is experiencing performance issues, and the team suspects it's due to a poorly configured AWS infrastructure. How would you diagnose and optimize the architecture for better performance?\par
+\par
+Scenario: A company wants to ensure high availability for its mission-critical application on AWS. What AWS services and strategies would you recommend to achieve this?\par
+\par
+Scenario: A startup wants to build a serverless application on AWS for scalability and cost-efficiency. Can you outline the architecture, including AWS services and components, that would best suit their needs?\par
+\par
+Scenario: A company has sensitive data stored on AWS, and they want to implement encryption and access control mechanisms. What are the best practices for securing their data in AWS?\par
+\par
+Can you write AWS Lambda functions? If yes, which language do you use.\par
+\par
+Can you write AWS Lambda functions? If yes, which language do you use.\par
+\par
+I have uploaded a 100mb zip file S3 bucket. The bucket cannot be made public. What is the simplest way to share the file to customer who is NOT on AWS.\par
+\par
+There are 10 servers in my AWS account in N.Virginia . I want that 5 server should start & automatically stop at a predefined time. What is the easiest way?\par
+\par
+I lost my password & Keypair to a Ec2 server. What is the easiest way to get the admin password of the server.\par
+\par
+There are 10 servers in my AWS account in N.Virginia . I want that 5 server should start & automatically stop at a predefined time. What is the easiest way?\par
+\par
+I have uploaded a 100mb zip file S3 bucket. The bucket cannot be made public. What is the simplest way to share the file to customer who is NOT on AWS\par
+\par
+I have uploaded a 100mb zip file S3 bucket. The bucket cannot be made public. What is the simplest way to share the file to customer who is NOT on AWS.\par
+\par
+How do you handle security complience in devOps and CI/CD environment?\par
+\par
+Share your experience with cloud- based firewall solutions and web application firewalls(WAF's)\par
+\par
+Share your experience with cloud- based firewall solutions and web application firewalls(WAF's)\par
+\par
+Describe your approach to security logging and monitoring in the cloud ,what key security events and metrics do you track to identify and respond to threats?\par
+risk assesment\par
+\par
+Describe your role in creating and maintaining a comprehensive incident response plan foa a cloud security breaches.How do you ensure rapid detection and containment of security incidents?\par
+\par
+Can you write AWS Lambda functions? If yes, which language do you use.\par
+\par
+What is Amazon CloudWatch logs?\par
+Cloud Security\par
+\par
+How do you connect multiple sites to a VPC?\par
+\par
+What important precautions should one take before migration to the AWS Cloud?\par
+\par
+what is nodeport in k8s\par
+\par
+write terraform script to provision 3 VMs with region ap-south-mumbai and type t4x.large\par
+\par
+How many EC2 Instance can one EBS volume be attached to at the time.\par
+\par
+What is group in Linux? How many EC2 instance can one EBS volume be attached to at the same time? What is difference between EC2 and VM? How do you create a pipeline in Azure DevOps? What is volume in Docker? What is difference between CMD and EntrePoint? What are Services in K8s? What is dynamic parameter in Jenkins? Write Terraform script for create N number of Ec2?\par
+\par
+What are important Cloud Security Aspects in AWS?\par
+\par
+How to keep the Data safe while transferring it to cloud??\par
+\par
+There are 10 servers in aws account which is in n virginia ,I want that five servers should start and autoatically stop at a predefined time,what is the easiest way to do it?\par
+\par
+can you write aws lambda functions ?which language do you use?\par
+\par
+I have uploadeed a 100 mb zip file in s3 bucket ,The bucket can not made to public ,what is the simplest way to share the file to customer which is not on the AWS ?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Difference between git branch -d and git branch -D. What are the types of tag does git support?\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Difference between git branch -d and git branch -D.\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What are the types of tag does git support?\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is Azure service manager?\par
+Azure\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What are the types of pipelines in Jenkins?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is difference between Git stash and git stash pop command?\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is nat-gateway?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How we can take backup of ec2 instance?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How we can share volume from one container to another container?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Write Terraform script for create N number of Ec2?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is S3 Bucket\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Amazon EC2\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Difference between Amazon S3 and Amazon EBS\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Explain the concept of Microservices\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is a Docker container\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you approach implementing DevOps practices in an organization?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Difference between Git Pull and Git Fetch\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you handle Secrets in jenkins?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you configure Jenkins with Tomcat server?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is difference between GIT Merge and GIT Rebase?\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Can you please explain Declarative Pipeline ?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is build agent Tool and how you define / Configure in Jenkins ?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Can you please explain how we configure Tomcat server with Jenkins?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is Self hosted agent in Azure Pipeline ?\par
+Azure\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is shared Module in Jenkins?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you handle continuous Monitoring in Release Pipeline?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What are the branching strategy you handle in your last organization?\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+A VPC having Public subnet and private subnet ,I want to access Internet to upgrade my software which is placed in private subnet. How do you access Internet ?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Client requirements is to create VPC for 2 tier application which highly scalable and Available. How you can complete this requirement?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Creating pipeline in AWS GLUE?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to check Linux OS version with the help of shell scripting ?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to check logs and print specific value with the help of shell scripting?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to you access audits logs in S3 bucket?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you apply Policy for Multiple user in IAM group?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you manage Application load with the help of autoscalling?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is detached Head?\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you rectify credential issue while pushing Source code to remote repository?\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is cherry Pick in GIT?\par
+Git\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Can you use Jenkins to build application with multiple programming language using different agent in different stages?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+IAM Roles and Policy\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What do you mean by Elastic Load Balancer?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+what is deployment group?\par
+Azure\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you manage monitoring in release pipeline?\par
+Azure\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+You've been tasked with setting up a continuous integration pipeline for a microservices-based application hosted on AWS. How would you approach this task?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How would you set up monitoring and alerting for critical AWS infrastructure components to ensure high availability and performance?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How would you set up monitoring and alerting for critical AWS infrastructure components to ensure high availability and performance?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Explain the key components of Azure Data Factory.\par
+Azure\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to download Jenkins build log programmatically through Jenkins CLI console?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+what is shared module in Jenkins ?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to create and use shared library in jenkins?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How can job configuration be reset to an earlier version or state ?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Suppose you have maven for java, asp.net plug for .NET code, how do you configure pipeline for new application for which you don't have plugins?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you deploy application through docker ?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is Detach Head ?\par
+Azure\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Describe the Docker architecture and its main components.\par
+Azure\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to take Ec2 Instance backup?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is scriptler?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is Scriptler in Jenkins?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is Serverless architecture?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+DynamoDB\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Can we create Docker Infrastructure through Terraform?\par
+Terraform\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Can we deploy application from one server to another server through terraform provisioning?\par
+Terraform\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to expose application from outside the cluster in K8s?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Steps tp create AWS EC2 Instance ?\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+AWS Lambda\par
+AWS\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is difference between configmap and secrets?\par
+K8s\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How we can expose application from outside the cluster?\par
+K8s\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How we can share volume from one container to another container?\par
+Docker\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is difference between CMD and Entrypoint?\par
+Docker\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+\par
+\b\fs44 Shell Script Q:\par
+\b0\fs22 Write shell script to find all files modified within last 24 hours\par
+Shell script\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+do you have any experience with shell script\par
+Shell script\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Write shell script to find all files modified within last 24 hours\par
+Shell script\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Write a shell script that print factorial of given number?\par
+Shell script\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Write a shell script to print Fibonacci series?\par
+Shell script\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+If you want to run any command in background then what is the command\par
+Shell script\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Write a playbook to install nginx webserver\par
+Shell script\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is the difference between string and array in shell script?\par
+Shell script\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+\par
+\b\fs28 Jenkins Q:\b0\fs22\par
+What are the types of pipelines in Jenkins?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you handle Secrets in jenkins?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you configure Jenkins with Tomcat server?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is shared Module in Jenkins?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you handle continuous Monitoring in Release Pipeline?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Can you use Jenkins to build application with multiple programming language using different agent in different stages?\par
+Jenkins\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is Scriptler in Jenkins?\par
+\par
+\b\fs28 K8s Q:\b0\fs22\par
+what is nodeport in k8s\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is group in Linux? How many EC2 instance can one EBS volume be attached to at the same time? What is difference between EC2 and VM? How do you create a pipeline in Azure DevOps? What is volume in Docker? What is difference between CMD and EntrePoint? What are Services in K8s? What is dynamic parameter in Jenkins? Write Terraform script for create N number of Ec2?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How we can share volume from one container to another container?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Write Terraform script for create N number of Ec2?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Explain the concept of Microservices\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is a Docker container\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How do you approach implementing DevOps practices in an organization?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Can you please explain Declarative Pipeline ?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+What is build agent Tool and how you define / Configure in Jenkins ?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+Can you please explain how we configure Tomcat server with Jenkins?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to check Linux OS version with the help of shell scripting ?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to check logs and print specific value with the help of shell scripting?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\par
+How to expose application from outside the cluster in K8s?\par
+DevOps\par
+Answer Good\par
+Answer Satisfactory\par
+Answer Wrong\fs10\par
+\par
+}
+ 
